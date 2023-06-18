@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Deepanshu kumar
 - 👀 I’m interested in Artificial Intelegence
-- 🌱 I’m currently learning Computer Vision
+- 🌱 I’m currently learning Computer Vision and RL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
