@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Deepanshu kumar
+- 👋 Hi, I’m Deepanshu kumar sahu
 - 👀 I’m interested in Artificial Intelegence
 - 🌱 I’m currently learning Computer Vision and RL
 - 💞️ I’m looking to collaborate on ...
